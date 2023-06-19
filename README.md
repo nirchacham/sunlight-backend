@@ -13,3 +13,4 @@ Frontend:
 Backend:
 - Do better error handling as well.
 - Do a custom response when returning the data to the client.
+- Add middleware to check the query params.
